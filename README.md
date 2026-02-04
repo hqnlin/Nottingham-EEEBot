@@ -1,15 +1,11 @@
-# Nottingham EEEBot Project 🤖
+# Nottingham EEEBot Project 
 
 This project was completed as part of my first-year Electrical and Electronic Engineering course at the University of Nottingham.  
 The aim was to design and build an autonomous robot vehicle capable of following a track and avoiding obstacles using embedded control systems.
-
-(Unfortunatly I no longer have access to the majority of code for showcasing)
-
----
-
-## Project Overview
 EEEBot was designed to navigate autonomously using sensors and a control algorithm implemented on an ESP32 microcontroller.  
 The system used sensor data to detect lines, measure distance, and adjust motor speeds in real time.
+
+(Unfortunatly I no longer have access to the majority of code for showcasing)
 
 ---
 
@@ -38,14 +34,14 @@ Here are some images from my build and testing process:
 
 ---
 
-## 🎯 Results
+## 🎯Results
 - The robot managed to follow a course with black lines and a maze with both manual web app control and image recognition 
 - Demonstrated stable motor control and obstacle detection  
 - Achieved consistent performance under test conditions  
 
 ---
 
-## 🧰 Skills Gained
+## Skills Gained
 - C programming (Raspberry Pi / ESP32)  
 - Circuit design and sensor integration  
 - PID control system tuning  
