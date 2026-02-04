@@ -3,6 +3,8 @@
 This project was completed as part of my first-year Electrical and Electronic Engineering course at the University of Nottingham.  
 The aim was to design and build an autonomous robot vehicle capable of following a track and avoiding obstacles using embedded control systems.
 
+(Unfortunatly I no longer have access to the majority of code for showcasing)
+
 ---
 
 ## Project Overview
