@@ -31,6 +31,26 @@ The system used sensor data to detect lines, measure distance, and adjust motor 
 ## 🖼️ Images & Diagrams
 Here are some images from my build and testing process:
 
+### Robot
+![EEEBot](images/eebot.jpg)
+
+### IR Sensor Array
+![IR Sensor Array](images/ir_sensor_array.jpg)
+
+### Sensor Circuit Diagram
+![Sensor Circuit](images/sensor_circuit_diagram.jpg)
+
+### Web Control Dashboard
+![Web Control](images/web_control_dash.jpg)
+
+### Processed Image
+![Processed Image](images/processed_image.jpg)
+
+### Arrow Terminal Output
+![Terminal Output](images/arrow_terminal_output.jpg)
+
+### Block Diagram
+![Block Diagram](images/block_diagram.jpg)
 
 ---
 
